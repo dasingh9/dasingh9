@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DavS, a Full Stack Developer
-- 👀 I’m interested in JavaScript, Node.js, C# React, Angular, Blazor, desktop apps
+- 👀 I’m interested in JavaScript, Node.js, C#, React, Angular, Blazor, desktop apps
 - 🌱 I’m currently learning to write Clean Code, and I think I'm almost there!
 - 💞️ I’m looking to collaborate on Frontend technologies
 
