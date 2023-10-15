@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DavS
-- 👀 I’m interested in C#, JavaScript, NodeJS, React, Angular, Blazor
-- 🌱 I’m currently learning React, Clean Code
+- 👀 I’m interested in JavaScript, Node.js, React, Angular, Blazor, desktop apps
+- 🌱 I’m currently learning to write Clean Code, and I think I'm almost there!
 - 💞️ I’m looking to collaborate on Frontend technologies
 
 <!---
