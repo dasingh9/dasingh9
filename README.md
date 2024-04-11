@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DavS, a Full Stack Developer
-- 👀 I’m interested in JavaScript, Node.js, C#, React, Angular, Blazor, desktop apps
-- 🌱 I’m currently learning to write Clean Code, and I think I'm almost there!
-- 💞️ I’m looking to collaborate on Frontend technologies
+- 👀 I work quite often using JavaScript, Node.js, Angular, React. Sometimes with Blazor and desktop apps!
+- 🌱 I’m currently learning to write Clean Code & TDD, and I think I'm almost there!
+- 💞️ I’m keen to collaborate
 
 <!---
 dasingh9/dasingh9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
