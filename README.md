@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Davinder, a clean coder and a Full Stack Developer
-- 👀 I work using JavaScript, Node.js, Angular, React, Next.js.
+- 👋 Hi, I’m Davinder, a clean coder, a Full Stack Developer
+- 👀 I work using JavaScript, Node.js, React, Next.js, Angular
 - 💞️ I love architecture design for complex problems / systems
 
 <!---
