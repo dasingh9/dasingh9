@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Davinder  
+# 👋  
 
 🚀 **Full Stack Developer | Clean Coder | Cloud Enthusiast**  
 
